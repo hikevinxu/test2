@@ -1,0 +1,36 @@
+123
+
+1. git  init         ------初始化git
+
+
+2. git config --global user.name "hua"   ------- 配置用户名
+
+
+3.git config --global user.email "hua@qq.com"        ------------配置用户邮箱
+
+
+4. git config --list           查看用户信息
+
+
+5.git add ./demo.txt
+
+
+6.git commit -m "hello,完成了第一个功能"
+
+
+7.当输入git commit 然后回车 会报错，这时我们可以按esc键+ :q 键 退出，如果在上面输入了信息，我们可以按esc键+ :q!键强制退出；
+
+
+8.git  status  ：查看现在的状态
+
+
+9. git add . 或 git add ./    ------表示把工作区的所有文件提交到暂存库
+
+10 git commit --all  -m  “说明信息”        -------表示吧暂存库的所有文件提交到版本库
+
+11.git log  查看之前的保存的版本
+
+12.git log --oneline   一行显示之前的版本
+
+11. 回退 ； git reset --hard  Head～0，1，2，3     回退到什么状态
+	
