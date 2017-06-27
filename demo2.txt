@@ -33,4 +33,12 @@
 12.git log --oneline   一行显示之前的版本
 
 11. 回退 ； git reset --hard  Head～0，1，2，3     回退到什么状态
-	
+
+14. git branch dev  -----创建一个名字为dev的分支
+
+15 git branch     -------查看分支
+
+16. git checkout  dev   ----切换到dev分支
+
+17. git meger dev    合并分支	
+
