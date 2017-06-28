@@ -42,3 +42,12 @@
 
 17. git meger dev    合并分支	
 
+18. git push  https://。。。。。。。   -----上传到github
+
+19 git pull http://.......         --------下载到本地(需要新建一个仓库)
+
+20.git clone https:// .......               -------下载到本地(不需要新建一个仓库)
+
+
+21. ssh-keygen -t rsa -C "youxiangdizhi@qq.com"  回车 回车 回车  一路回车
+
